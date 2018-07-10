@@ -25,7 +25,7 @@ Model means data that is required to display in the view. Model represents a col
 
 # View
 
-The View represents UI components like XML, HTML etc. View displays the data that is received from the controller as the outcome. In MVC pattern View monitors the model for any state change and displays updated model. Model and View interact with each other using the Observer pattern.
+The View represents UI components like Activity, Fragments etc. View displays the data that is received from the controller as the outcome. In MVC pattern View monitors the model for any state change and displays updated model. Model and View interact with each other using the Observer pattern.
 
 # Controller
 
